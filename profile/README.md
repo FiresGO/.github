@@ -8,10 +8,10 @@
 
 | 仓库 | 负责内容 | 状态 |
 | --- | --- | --- |
-| [`brand-system`](https://github.com/FiresGO/brand-system) | Logo、品牌颜色、字体、视觉规范和公共品牌资产 | 建设中 |
-| [`sales-materials`](https://github.com/FiresGO/sales-materials) | 服务手册、方案书、PPT、PDF、报价材料及可编辑源文件 | 建设中 |
+| [`brand-system`](https://github.com/FiresGO/brand-system) | Logo、品牌颜色、字体、视觉规范和公共品牌资产 | 品牌基础资产就绪；门头/大堂实拍与商标受理通知书已入库（2026-09-06） |
+| [`sales-materials`](https://github.com/FiresGO/sales-materials) | 服务手册、方案书、PPT、PDF、报价材料及可编辑源文件 | 服务手册已入库；培训手册与产品/方案材料已入库（2026-09-06） |
 | [`copy-library`](https://github.com/FiresGO/copy-library) | 品牌文案、服务介绍、销售话术、CTA 和常用文案模板 | 建设中 |
-| [`social-design`](https://github.com/FiresGO/social-design) | 账号头像、封面、主页装修和社交媒体视觉模板 | 已建库，待模板 |
+| [`social-design`](https://github.com/FiresGO/social-design) | 账号头像、封面、主页装修和社交媒体视觉模板 | Facebook 搭建素材与公众号装饰资产已入库（2026-09-06） |
 | [`contract-design`](https://github.com/FiresGO/contract-design) | 合同封面、合同排版、报价单和商务文件设计 | 已建库，待模板 |
 | [`ui-system`](https://github.com/FiresGO/ui-system) | 网站、小程序、后台系统和企业工具 UI | 已建库，待系统规范 |
 | [`ai-workflows`](https://github.com/FiresGO/ai-workflows) | AI 内容生产、视频生产和业务自动化工作流 | 已建库，目录与归档规范已就绪 |
