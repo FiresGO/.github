@@ -15,6 +15,8 @@
 | [`contract-design`](https://github.com/FiresGO/contract-design) | 合同封面、合同排版、报价单和商务文件设计 | 已建库，待模板 |
 | [`ui-system`](https://github.com/FiresGO/ui-system) | 网站、小程序、后台系统和企业工具 UI | 已建库，待系统规范 |
 | [`ai-workflows`](https://github.com/FiresGO/ai-workflows) | AI 内容生产、视频生产和业务自动化工作流 | 已建库，目录与归档规范已就绪 |
+| [`overseas-order-tracking`](https://github.com/FiresGO/overseas-order-tracking) | 外贸跟单、统一收件箱与渠道运行时软件 | 已建私有仓，代码已推送 |
+| [`ai-poster-layer-split`](https://github.com/FiresGO/ai-poster-layer-split) | AI 海报拆层、修复、PSD 导出与交付质量控制源码 | 已建私有仓，源码基线已推送 |
 
 ## 建设原则
 
