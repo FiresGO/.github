@@ -13,8 +13,8 @@
 | [`copy-library`](https://github.com/FiresGO/copy-library) | 品牌文案、服务介绍、销售话术、CTA 和常用文案模板 | 建设中 |
 | [`social-design`](https://github.com/FiresGO/social-design) | 账号头像、封面、主页装修和社交媒体视觉模板 | 建设中 |
 | [`contract-design`](https://github.com/FiresGO/contract-design) | 合同封面、合同排版、报价单和商务文件设计 | 已建库，待模板 |
-| `ui-system` | 网站、小程序、后台系统和企业工具 UI | 规划中 |
-| `ai-workflows` | AI 内容生产、视频生产和业务自动化工作流 | 规划中 |
+| [`ui-system`](https://github.com/FiresGO/ui-system) | 网站、小程序、后台系统和企业工具 UI | 已建库，待系统规范 |
+| [`ai-workflows`](https://github.com/FiresGO/ai-workflows) | AI 内容生产、视频生产和业务自动化工作流 | 已建库，待初始化 |
 
 ## 建设原则
 
