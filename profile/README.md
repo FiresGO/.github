@@ -8,9 +8,9 @@
 
 | 仓库 | 负责内容 | 状态 |
 | --- | --- | --- |
-| [`brand-system`](https://github.com/FiresGO/brand-system) | Logo、品牌颜色、字体、视觉规范和公共品牌资产 | 已建立 |
-| `sales-materials` | 服务手册、方案书、PPT、PDF、报价材料及可编辑源文件 | 下一步 |
-| `copy-library` | 品牌文案、服务介绍、销售话术、CTA 和常用文案模板 | 规划中 |
+| [`brand-system`](https://github.com/FiresGO/brand-system) | Logo、品牌颜色、字体、视觉规范和公共品牌资产 | 建设中 |
+| [`sales-materials`](https://github.com/FiresGO/sales-materials) | 服务手册、方案书、PPT、PDF、报价材料及可编辑源文件 | 建设中 |
+| [`copy-library`](https://github.com/FiresGO/copy-library) | 品牌文案、服务介绍、销售话术、CTA 和常用文案模板 | 建设中 |
 | `social-design` | 账号头像、封面、主页装修和社交媒体视觉模板 | 规划中 |
 | `contract-design` | 合同封面、合同排版、报价单和商务文件设计 | 规划中 |
 | `ui-system` | 网站、小程序、后台系统和企业工具 UI | 规划中 |
